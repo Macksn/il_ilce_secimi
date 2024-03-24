@@ -1,0 +1,7 @@
+c:\users\acer-v3\documents\visual studio 2010\Projects\combobax\combobax\bin\Debug\combobax.exe
+c:\users\acer-v3\documents\visual studio 2010\Projects\combobax\combobax\bin\Debug\combobax.pdb
+c:\users\acer-v3\documents\visual studio 2010\Projects\combobax\combobax\obj\x86\Debug\combobax.Form1.resources
+c:\users\acer-v3\documents\visual studio 2010\Projects\combobax\combobax\obj\x86\Debug\combobax.Properties.Resources.resources
+c:\users\acer-v3\documents\visual studio 2010\Projects\combobax\combobax\obj\x86\Debug\combobax.csproj.GenerateResource.Cache
+c:\users\acer-v3\documents\visual studio 2010\Projects\combobax\combobax\obj\x86\Debug\combobax.exe
+c:\users\acer-v3\documents\visual studio 2010\Projects\combobax\combobax\obj\x86\Debug\combobax.pdb
